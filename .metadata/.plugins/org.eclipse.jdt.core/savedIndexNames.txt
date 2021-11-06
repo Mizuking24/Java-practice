@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/mizuyan/Desktop/Java入門/.metadata/.plugins/org.eclipse.jdt.core
+117107643.index
+3030504814.index
+42870547.index
+2820284798.index
+1784521211.index
+1604056662.index
+3971142190.index
+2754133421.index
+3656278422.index
+1787980188.index
+3019168990.index
+1018231068.index
+2554760439.index
+2729639073.index
+1865797976.index
+3897588698.index
+1701714425.index
+2204291092.index
