@@ -1,0 +1,31 @@
+
+public class practice02 {
+	public static void main(String[] args) {
+		int a;
+		int b;
+		a = 20;
+		b = a + 5;
+		System.out.println(a);
+		System.out.println(b);
+
+//		インクリメント・デクリメント
+		int c = 100;
+		int d = 100;
+		c++;
+		d--;
+		System.out.println(c);
+		System.out.println(d);
+
+//		変数の自動型変換
+		float e = 3;
+		double f = e;
+		System.out.println(e);
+		System.out.println(f);
+
+//		異なる型同士の算術演算子
+		double g = 8.5 / 2;
+		long h = 5 + 2L;
+		System.out.println(g);
+		System.out.println(h);
+	}
+}

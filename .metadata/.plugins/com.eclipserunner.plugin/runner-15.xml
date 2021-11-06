@@ -3,5 +3,6 @@
     <category expanded="true" name="カテゴリーなし">
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice02"/>
     </category>
 </runner>

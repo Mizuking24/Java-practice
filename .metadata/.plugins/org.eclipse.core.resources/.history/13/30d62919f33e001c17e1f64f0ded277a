@@ -1,0 +1,16 @@
+
+public class practice02 {
+	public static void main(String[] args) {
+		int a;
+		int b;
+		a = 20;
+		b = a + 5;
+		System.out.println(a);
+		System.out.println(b);
+		
+		int c = 100;
+		c++;
+		System.out.println(c);
+		
+	}
+}
