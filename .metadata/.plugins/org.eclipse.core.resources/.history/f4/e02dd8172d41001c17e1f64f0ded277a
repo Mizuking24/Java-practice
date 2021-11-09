@@ -1,0 +1,25 @@
+
+public class lesson04 {
+	public static void main(String[] args) {
+		
+//		配列作成の手順
+		int[] scores;
+		scores = new int[5];
+//		短縮した書方
+//		int[] scores = new int[5];
+		
+//		配列の長さを調べる
+		int[] a = new int[4];
+		int num = a.length;
+		System.out.println("要素の数：" + num);
+		
+//		配列の要素に値を代入
+		int[] b = new int[5];
+		b[1] = 30;
+		System.out.println(b[1]);
+		
+//		配列は自動的に初期化される
+		int[] c = new int[5];
+		System.out.println(c[1]);
+	}
+}

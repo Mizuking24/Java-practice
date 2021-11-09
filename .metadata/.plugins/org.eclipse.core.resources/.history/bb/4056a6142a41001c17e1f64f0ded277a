@@ -1,0 +1,15 @@
+
+public class lesson04 {
+	public static void main(String[] args) {
+		
+//		配列作成の手順
+		int[] scores;
+		scores = new int[5];
+//		短縮した書方
+//		int[] scores = new int[5];
+		
+//		配列の長さを調べる
+		int num = scores.length;
+		System.out.println("要素の数：" + num);
+	}
+}
