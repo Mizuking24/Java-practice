@@ -7,5 +7,6 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice02"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice03"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice04"/>
     </category>
 </runner>
