@@ -2,6 +2,7 @@
 <runner version="1.0.0">
     <category expanded="true" name="カテゴリーなし">
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Calc"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Calc (1)"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="lesson03"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="lesson04"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="lesson05"/>
@@ -11,5 +12,6 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice03"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice04"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice05"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice06"/>
     </category>
 </runner>
