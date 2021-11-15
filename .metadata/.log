@@ -1677,3 +1677,27 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 17:39:29.235
 !MESSAGE executing callback sts4.classpath.ViFBInGe SUCCESS [done]
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:32.906
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:32.907
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.108
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.108
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.113
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.113
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.228
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-11-15 18:41:33.228
+!MESSAGE リソース '/Java学習ファイル/src/game/main/Main.java' が存在しません。
