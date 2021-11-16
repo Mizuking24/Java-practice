@@ -27,7 +27,7 @@ public class Main {
 		m2.suffix = 'B';
 		
 //		メソッドを呼び出す
-		System.out.println(h.hp + h.name);
+		System.out.println(h.hp);
 		System.out.println("勇者" + h.name + "を生み出しました。");
 		System.out.println("現在の武器は" + h.sword.name);
 		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");

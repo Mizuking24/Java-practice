@@ -6,11 +6,13 @@ public class Main {
 		Sword s = new Sword();
 		s.name = "炎の剣";
 		s.damage = 10;
-		Hero h = new Hero("吉田");
+		Hero h = new Hero();
+		h.name = "吉田";
 		h.sword = s;
 		
 //		勇者h1を生成し、初期化
-		Hero h1 = new Hero("佐藤");
+		Hero h1 = new Hero();
+		h1.name = "佐藤";
 		
 //		魔法使いwを生成し、初期化
 		Wizard w = new Wizard();
@@ -27,7 +29,7 @@ public class Main {
 		m2.suffix = 'B';
 		
 //		メソッドを呼び出す
-		System.out.println(h.hp + h.name);
+		System.out.println(h.hp);
 		System.out.println("勇者" + h.name + "を生み出しました。");
 		System.out.println("現在の武器は" + h.sword.name);
 		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");

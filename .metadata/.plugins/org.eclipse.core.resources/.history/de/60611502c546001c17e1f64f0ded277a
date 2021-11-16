@@ -4,14 +4,14 @@ public class Hero {
 	String name;
 	int hp;
 	Sword sword;
-//	インスタンス生成後自動でフィールド初期化するメソッド(コンストラクタ）
+//	インスタンス生成後自動でフィールド初期化するメソッド
 	public Hero(String name) {
 		this.hp = 100;
 		this.name = name;
 	}
-//	コンストラクタのオーバーロード
 	public Hero() {
-		this("ダミー");
+		this.hp = 100;
+		this.name = "ダミー";
 	}
 	
 	public void sleep() {
