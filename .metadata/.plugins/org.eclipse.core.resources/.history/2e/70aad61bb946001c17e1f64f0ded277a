@@ -2,14 +2,10 @@ package game;
 
 public class Main {
 	public static void main(String[] args) {
-//		剣を持たせた勇者を生成し、フィールドに初期値をセット
-		Sword s = new Sword();
-		s.name = "炎の剣";
-		s.damage = 10;
+//		勇者を生成し、フィールドに初期値をセット
 		Hero h = new Hero();
 		h.name = "吉田";
 		h.hp = 100;
-		h.sword = s;
 		
 //		お化けキノコAを生成し、初期化
 		Matango m1 = new Matango();
@@ -22,9 +18,6 @@ public class Main {
 		
 //		メソッドを呼び出す
 		System.out.println("勇者" + h.name + "を生み出しました。");
-		System.out.println("現在の武器は" + h.sword.name);
-		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");
-		System.out.println("お化けキノコ" + m1.suffix + "に10のダメージ！");
 		h.slip();
 		m1.run();
 		m2.run();

@@ -21,10 +21,8 @@ public class Main {
 		m2.suffix = 'B';
 		
 //		メソッドを呼び出す
-		System.out.println("勇者" + h.name + "を生み出しました。");
 		System.out.println("現在の武器は" + h.sword.name);
-		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");
-		System.out.println("お化けキノコ" + m1.suffix + "に10のダメージ！");
+		System.out.println("勇者" + h.name + "を生み出しました。");
 		h.slip();
 		m1.run();
 		m2.run();

@@ -1725,3 +1725,45 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 19:33:04.673
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ViFBInGe => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:51.508
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:51.510
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@63797d72[org.springframework.tooling.boot.ls:1.28.0.202109130547(id=1011)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:51.510
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.743
+!MESSAGE 起動から初期化までの Boot LS 起動時間: 3229ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.975
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OJgvWvbvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.975
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.976
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.976
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.977
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.978
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OJgvWvbv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.981
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.981
+!MESSAGE buffering callback sts4.classpath.OJgvWvbv Java学習ファイル false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:54.982
+!MESSAGE executing callback sts4.classpath.OJgvWvbv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-16 17:30:55.291
+!MESSAGE executing callback sts4.classpath.OJgvWvbv SUCCESS [done]
