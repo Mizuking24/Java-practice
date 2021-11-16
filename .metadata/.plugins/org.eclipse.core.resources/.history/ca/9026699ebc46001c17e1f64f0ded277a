@@ -2,7 +2,7 @@ package game;
 
 public class Main {
 	public static void main(String[] args) {
-//		剣を持たせた勇者hを生成し、フィールドに初期値をセット
+//		剣を持たせた勇者を生成し、フィールドに初期値をセット
 		Sword s = new Sword();
 		s.name = "炎の剣";
 		s.damage = 10;
@@ -10,16 +10,6 @@ public class Main {
 		h.name = "吉田";
 		h.hp = 100;
 		h.sword = s;
-		
-//		勇者h1を生成し、初期化
-		Hero h1 = new Hero();
-		h1.name = "佐藤";
-		h1.hp = 100;
-		
-//		魔法使いwを生成し、初期化
-		Wizard w = new Wizard();
-		w.name = "鈴木";
-		w.hp = 100;
 		
 //		お化けキノコAを生成し、初期化
 		Matango m1 = new Matango();
@@ -36,9 +26,6 @@ public class Main {
 		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");
 		System.out.println("お化けキノコ" + m1.suffix + "に10のダメージ！");
 		h.slip();
-		w.heal(h);
-		w.heal(h1);
-		w.heal(h1);
 		m1.run();
 		m2.run();
 		h.run();

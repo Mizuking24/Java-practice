@@ -36,9 +36,6 @@ public class Main {
 		System.out.println(h.name + "は" + h.sword.name + "で攻撃した！");
 		System.out.println("お化けキノコ" + m1.suffix + "に10のダメージ！");
 		h.slip();
-		w.heal(h);
-		w.heal(h1);
-		w.heal(h1);
 		m1.run();
 		m2.run();
 		h.run();
