@@ -9,6 +9,6 @@ public class Main {
 		h.name = "ミナト";
 		h.hp = 100;
 		h.sword = s;
-		System.out.println("現在の武器は" + h.sword.name);
+		System.out.println("現在の武器は" + h.sword);
 	}
 }
