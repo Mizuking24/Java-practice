@@ -7,7 +7,7 @@ public class Hero {
 	
 	
 	public void attack() {
-		System.out.println(this.name + "は" + this.sword.name + "で攻撃した！");
+		System.out.println(this.name + "は" + this.sword + "で攻撃した！");
 	}
 	public void sleep() {
 		this.hp = 100;
