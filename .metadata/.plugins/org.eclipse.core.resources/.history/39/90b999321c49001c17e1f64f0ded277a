@@ -12,7 +12,6 @@ public class Main {
 		
 		System.out.println(h1.hp);
 		System.out.println(h1.name);
-		System.out.println(h2.name);
 		w.heal(h1);
 		w.heal(h2);
 		w.heal(h2);
