@@ -16,11 +16,4 @@ public class SuperHero2 extends Hero2 {
 	public void run() {
 		System.out.println(this.name + "は撤退した！");
 	}
-	
-	public void attack() {
-		super.attack();
-		if (this.flying) {
-			super.attack();
-		}
-	}
 }
