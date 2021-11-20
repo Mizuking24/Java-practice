@@ -1,0 +1,9 @@
+package practice10;
+
+public class PoisonMatango2 extends Matango2 {
+	PoisonMatango2 pm2 = new PoisonMatango2('A');
+	
+	public void poisonAttack() {
+		
+	}
+}

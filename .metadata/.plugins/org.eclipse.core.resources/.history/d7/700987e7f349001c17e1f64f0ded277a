@@ -8,7 +8,7 @@ package practice10;
 //		this.suffix = suffix;
 //	}
 //	
-//	public void attck() {
+//	public void attck(Hero h) {
 //		System.out.println("キノコ" + this.suffix + "攻撃");
 //		System.out.println("10のダメージ");
 //		h.hp -= 10;
