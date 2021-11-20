@@ -1,0 +1,13 @@
+package lesson10;
+
+public class Main {
+	public static void main(String[] args) {
+		Hero2 h = new Hero2();
+		h.run();
+		
+		SuperHero2 sh = new SuperHero2();
+		sh.run();
+		sh.fly();
+		sh.attack();
+	}
+}

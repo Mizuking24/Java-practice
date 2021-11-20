@@ -9,13 +9,5 @@ public class Main {
 		sh.run();
 		sh.fly();
 		sh.attack();
-		
-		Hero2 h2 = new Hero2();
-		h2.run();
-		
-		SuperHero2 sh2 = new SuperHero2();
-		sh2.run();
-		sh2.fly();
-		sh2.attack();
 	}
 }
