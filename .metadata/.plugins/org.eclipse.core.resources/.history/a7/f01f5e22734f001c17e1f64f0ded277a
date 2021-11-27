@@ -27,7 +27,7 @@ public class Main {
 		m2.suffix = 'B';
 		
 //		多態性の呼び出し
-		Character c = new Dancer();
+		Character d = new Dancer();
 		
 //		メソッドを呼び出す
 		System.out.println(h.hp + h.name);
